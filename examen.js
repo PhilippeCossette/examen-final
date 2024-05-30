@@ -16,3 +16,5 @@ let afficherDeclaration = () => {
   const declaration = getDeclaration(data);
   document.getElementById("resultat").innerHTML = declaration;
 };
+
+{}
